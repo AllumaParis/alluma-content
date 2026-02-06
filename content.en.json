@@ -77,89 +77,119 @@
   "menu_items_a_la_carte": [
     {
       "name": "CELERY CACIO E PEPE",
-      "desc": "",
-      "price": ""
+      "desc": "Pecorino, black pepper",
+      "price": "14 €"
     },
     {
       "name": "BUTTERNUT SQUASH",
-      "desc": "",
-      "price": ""
+      "desc": "Harissa beurre blanc",
+      "price": "12 €"
     },
     {
       "name": "FISH CRUDO",
-      "desc": "",
-      "price": ""
+      "desc": "Citrus salad, olives, blood orange juice",
+      "price": "16 €"
     },
     {
       "name": "ROASTED FENNEL",
-      "desc": "",
-      "price": ""
+      "desc": "Tulum cheese, fennel leaves, brown butter & honey, za’atar",
+      "price": "13 €"
     },
     {
       "name": "BURNT BEETS & BURRATA",
-      "desc": "",
-      "price": ""
+      "desc": "Jerusalem artichoke chips",
+      "price": "14 €"
     },
     {
       "name": "KOHLRABI CONFIT",
-      "desc": "",
-      "price": ""
+      "desc": "Labneh, schug",
+      "price": "13 €"
     },
     {
       "name": "DUCK BREAST",
-      "desc": "",
-      "price": ""
+      "desc": "Yemeni galette, romesco sauce, vegetable brunoise & chorizo, beetroot jus",
+      "price": "28 €"
     },
     {
       "name": "SPINACH-STUFFED CABBAGE LEAVES",
-      "desc": "",
-      "price": ""
+      "desc": "Brussels sprouts, fresh herb cream, celeriac jus",
+      "price": "24 €"
     },
     {
       "name": "CHARCOAL-GRILLED OCTOPUS",
-      "desc": "",
-      "price": ""
+      "desc": "Charred eggplant, chimichurri, calamari garum vinaigrette",
+      "price": "27 €"
     },
     {
       "name": "POTATO RAVIOLI",
-      "desc": "",
-      "price": ""
+      "desc": "Caramelized onion sauce, crème fraîche, roasted onions",
+      "price": "26 €"
     },
     {
       "name": "CHARCOAL-GRILLED FISH",
-      "desc": "",
-      "price": ""
+      "desc": "Celery cream, roasted cabbage, mustard seed sauce, sesame cream",
+      "price": "28 €"
     },
     {
       "name": "LAMB THREE WAYS",
-      "desc": "",
-      "price": ""
+      "desc": "Sirloin, flap & tartare, apricot jam, Jerusalem artichoke cream",
+      "price": "32 €"
     }
   ],
-  "menu_items_cheese": [],
-  "menu_items_desserts": [],
+  "menu_items_cheese": [
+    {
+      "name": "CHEESE PLATE",
+      "desc": "",
+      "price": "12 €"
+    }
+  ],
+  "menu_items_desserts": [
+    {
+      "name": "CHOCOLATE NAMELAKA",
+      "desc": "Tahini ice cream, miso & white chocolate tuile",
+      "price": "12 €"
+    },
+    {
+      "name": "MASCARPONE CREAM",
+      "desc": "Angel hair, frangipane, Lillet blueberries",
+      "price": "13 €"
+    },
+    {
+      "name": "CITRUS PAVLOVA",
+      "desc": "Vanilla cream, olive oil cake",
+      "price": "13 €"
+    }
+  ],
   "menu_lunch_blocks": [
     {
-      "label": "",
-      "options": []
+      "label": "STARTER",
+      "options": [
+        "Butternut Squash",
+        "Celery Cacio e Pepe"
+      ]
     },
     {
-      "label": "",
-      "options": []
+      "label": "MAIN",
+      "options": [
+        "Dish of the Day",
+        "Duck Breast (+4)"
+      ]
     },
     {
-      "label": "",
-      "options": []
+      "label": "DESSERT",
+      "options": [
+        "Dessert of the Day"
+      ]
     }
   ],
   "menu_lunch_prices": [
     {
       "label": "",
-      "price": ""
+      "price": "25 €"
     },
     {
       "label": "",
-      "price": ""
+      "price": "23 €"
     }
   ]
 }
