@@ -1,0 +1,195 @@
+{
+  "hero_title": "ALLUMA",
+  "hero_tagline": "La Méditerranée vivante",
+  "hero_micro": "Paris 11 — rue Saint-Maur",
+  "guides_line": "Dans le Guide Michelin, Le Fooding et la Hot List Condé Nast Traveller.",
+  "horaires": "Ouvert du mardi au samedi.\nDéjeuner : mardi à vendredi, 12h00 – 13h45.\nDîner : du mardi au samedi, 19h30 – 22h00.\nCarte Blanche à 55€ les mercredis et jeudis soir.",
+  "header_cta": "Réserver",
+  "header_logo_alt": "Alluma — restaurant à Paris 11",
+  "header_nav_menu": "Menu",
+  "header_nav_services": "Services",
+  "footer_guides": "Michelin Guide • Le Fooding • Condé Nast Traveller — Hot List 2023",
+  "footer_instagram_label": "Suivez-nous sur Instagram :",
+  "footer_newsletter_button": "Recevoir",
+  "footer_newsletter_subtitle": "Menus de saison et dîners spéciaux, par email.",
+  "footer_newsletter_title": "Nouvelles d'Alluma",
+  "footer_services": "Privatisation · Traiteur · Chef à domicile",
+  "cuisine_title": "La cuisine",
+  "cuisine_p1": "La cuisine d’Alluma se construit au fil des saisons et des produits disponibles. Chaque plat part d’un ingrédient et cherche à en proposer une lecture précise, parfois en mettant en avant des produits moins attendus, parfois en révélant une autre facette de produits familiers.",
+  "cuisine_p2": "Les menus évoluent régulièrement, dans une logique de cuisine attentive à l’ensemble des ingrédients utilisés — le zéro waste fait partie du cadre de travail, naturellement. À midi, une formule courte permet de découvrir la cuisine dans un format direct. Le soir, la carte change au fil du temps.",
+  "cuisine_p3": "Les mercredis et jeudis, Alluma propose son menu Carte Blanche, au prix de 55 €, une invitation à découvrir la cuisine dans un cadre resserré, adapté au rythme du milieu de semaine.",
+  "cuisine_p4": "Les propositions végétariennes font partie intégrante de la table, au même titre que les plats autour du poisson ou de la viande. Alluma se prête aussi bien à un dîner attentif qu’à une visite plus spontanée, pour manger et boire un verre.",
+  "wine_title": "Le vin",
+  "wine_p1": "La carte des vins d’Alluma est pensée comme un prolongement naturel de la cuisine.\nElle rassemble une sélection de vignerons indépendants, travaillant principalement en vins naturels et biodynamiques, en France mais aussi en Italie, Espagne, Grèce, Serbie ou Arménie.",
+  "wine_p2": "Les bouteilles sont choisies pour leur équilibre, leur énergie et leur capacité à dialoguer avec les plats, sans les dominer. Une carte volontairement ouverte, mais cohérente, qui privilégie des vins vivants, faits pour être bus à table, découverts au fil du repas, verre après verre.",
+  "story_title": "Notre histoire",
+  "story_p1": "Alluma a ouvert ses portes fin 2022, à l’initiative de Noa Gruman Tal et Liran Tal, avec l’envie de créer un restaurant à leur image : exigeant dans l’assiette, mais accessible dans la manière de le vivre.",
+  "story_p2": "Le nom Alluma fait référence à un faisceau de lumière, et au verbe allumer. Une idée simple qui guide le projet depuis le début : mettre en lumière des ingrédients moins familiers, ou révéler des facettes inattendues de produits que l’on croit connaître.",
+  "story_p3": "Cette approche traverse l’ensemble du restaurant. Dans la cuisine comme dans la salle, rien n’est pensé pour impressionner, mais pour éveiller la curiosité, créer du relief, et donner envie de revenir.",
+  "story_p4": "Alluma s’est construit comme une table de quartier ouverte, attentive à son rythme et à celles et ceux qui la fréquentent. Un restaurant vivant, qui évolue avec le temps, sans jamais perdre son point de départ.",
+  "visit_title": "Venir chez Alluma",
+  "visit_p1": "Alluma est situé au 151 rue Saint-Maur, Paris 11, dans un quartier vivant, entre Parmentier et Goncourt.\nLa salle est pensée comme un lieu où l’on peut aussi bien s’installer pour un dîner attentif que passer pour manger et boire un verre.",
+  "visit_p2": "Le restaurant est ouvert du mercredi au vendredi au déjeuner, et du mardi au samedi au dîner.\nLa réservation est recommandée, en particulier le soir et pour le menu Carte Blanche proposé les mercredis et jeudis.",
+  "visit_address": "151 rue Saint-Maur, 75011 Paris",
+  "visit_metro": "Parmentier / Goncourt",
+  "visit_phone": "+33 (0)9 85 11 88 33",
+  "reserve_title": "Réserver",
+  "reserve_p1": "Alluma se vit à différents moments de la semaine, selon l’envie et le temps dont on dispose.\nPour un déjeuner, un dîner à la carte ou le menu Carte Blanche proposé les mercredis et jeudis, la réservation se fait directement en ligne.",
+  "thefork_title": "Réserver",
+  "thefork_subtitle": "Réservation en ligne via TheFork.",
+  "services_catering_body": "Le service traiteur Alluma est pensé pour s’adapter à des contextes très différents, sans perdre son identité. Il peut accompagner aussi bien de grands événements privés ou professionnels que des formats plus simples.\n\nSelon vos besoins, Alluma propose des buffets ou repas pour événements de toute taille, ainsi que des formats adaptés aux grands groupes. Dans tous les cas, la cuisine reste créative, de saison et issue du travail du chef. Elle est pensée pour être lisible, équilibrée et agréable à partager. L’organisation est fluide et fiable, afin que la cuisine s’intègre naturellement à votre événement, quel que soit son format. \n\n La livraison peut être proposée selon le format et le lieu de l’événement. Le service traiteur peut également prendre la forme d’une commande à emporter, à partir de quatre personnes.",
+  "services_catering_title": "Traiteur",
+  "services_form_date_label": "Date",
+  "services_form_disclaimer": "En envoyant ce formulaire, vous acceptez d’être contacté·e par email.",
+  "services_form_email_label": "Email",
+  "services_form_guests_label": "Nombre de personnes",
+  "services_form_message_label": "Votre demande",
+  "services_form_name_label": "Nom",
+  "services_form_note": "Parlez-nous de votre projet — nous vous répondrons rapidement.",
+  "services_form_phone_label": "Téléphone (optionnel)",
+  "services_form_service_label": "Service",
+  "services_form_submit": "Envoyer",
+  "services_form_title": "Nous contacter",
+  "services_page_intro": "Privatisation, traiteur ou chef à domicile — des formats sur mesure pour prolonger l’univers d’Alluma, selon votre lieu, votre moment et votre façon de recevoir.",
+  "services_page_title": "Services",
+  "services_priv_body": "Alluma peut être privatisé pour vos déjeuners, dîners, événements professionnels ou moments à célébrer à Paris.\n\nSitué dans le 11ᵉ arrondissement, le restaurant offre un cadre chaleureux et adaptable, qui se prête aussi bien à des repas soignés qu’à des formats plus décontractés.\n\nChaque privatisation est construite selon vos envies. Le format, le rythme et le menu sont définis ensemble : repas assis, menu dégustation, cuisine à partager ou formules plus simples. La cuisine s’appuie sur les produits de saison et sur une inspiration méditerranéenne libre, ouverte à différents niveaux de simplicité ou de sophistication.\n\nPrivatiser Alluma permet de bénéficier d’un lieu modulable, d’une cuisine de chef pouvant être gastronomique ou plus conviviale, et d’un accompagnement attentif, de la conception au jour de l’événement.",
+  "services_priv_title": "Privatisation",
+  "services_privatechef_body": "Alluma propose un service de chef à domicile à Paris, porté par Liran Tal, chef et cofondateur du restaurant. Cette formule permet de vivre chez vous une expérience gastronomique, dans un cadre intime et personnalisé.\n\nLe chef se déplace à votre domicile pour cuisiner sur place un dîner privé ou un menu dégustation. Le menu est élaboré en fonction de la saison, de vos envies et du niveau de sophistication souhaité. La cuisine peut être très épurée ou plus élaborée, tout en restant fidèle à l’esprit d’Alluma et à l’inspiration méditerranéenne du chef.\n\nLe service de chef à domicile Alluma permet de recevoir simplement et élégamment, en profitant pleinement de ses invités, sans contrainte d’organisation.",
+  "services_privatechef_title": "Chef à domicile",
+  "menu_carte_blanche_desc": "Mercredi et jeudi soir",
+  "menu_carte_blanche_name": "Menu dégustation du chef",
+  "menu_page_intro": "Méditerranée libre & vivante",
+  "menu_page_title": "Menu",
+  "menu_section_a_la_carte": "À la carte",
+  "menu_section_carte_blanche": "Carte Blanche",
+  "menu_section_cheese": "Fromages",
+  "menu_section_desserts": "Desserts",
+  "menu_lunch_note": "(du mardi au vendredi)",
+  "menu_lunch_title": "Formule déjeuner",
+  "meta_description_menu": "Menu à la carte et formule déjeuner (mardi à vendredi) — Alluma, Paris 11.",
+  "meta_description_services": "Privatisation, traiteur et chef à domicile à Paris — événements sur mesure par Alluma.",
+  "meta_title_menu": "ALLUMA — Menu",
+  "meta_title_services": "ALLUMA — Services",
+  "hero_p1": "Alluma est un restaurant à Paris 11 où l’on vient manger et boire autour d’une cuisine de saison, attentive aux produits et aux gestes.\nLes assiettes évoluent régulièrement, portées par une lecture libre de la Méditerranée, sans folklore ni démonstration, avec le souci constant de faire juste.",
+  "hero_reserve_cta": "Réserver maintenant",
+  "home_discover_menu_link": "→ Découvrir notre menu",
+  "home_explore_services_link": "→ Explorer nos services",
+  "menu_items_a_la_carte": [
+    {
+      "name": "CÉLERI CACIO E PEPE",
+      "desc": "pecorino, poivre noir",
+      "price": "14 €"
+    },
+    {
+      "name": "COURGE BUTTERNUT",
+      "desc": "au beurre blanc à l’harissa",
+      "price": "12 €"
+    },
+    {
+      "name": "CRUDO DE POISSON",
+      "desc": "salade d’agrumes, olives, jus d’orange sanguine",
+      "price": "16 €"
+    },
+    {
+      "name": "FENOUIL RÔTI",
+      "desc": "fromage Tulum, feuilles de fenouil, beurre noisette & miel, za’atar",
+      "price": "13 €"
+    },
+    {
+      "name": "BETTERAVES BRÛLÉES & BURRATA",
+      "desc": "chips de topinambour",
+      "price": "14 €"
+    },
+    {
+      "name": "CHOU-RAVE CONFIT",
+      "desc": "labneh, schug",
+      "price": "13 €"
+    },
+    {
+      "name": "MAGRET DE CANARD",
+      "desc": "galette, romesco, brunoise de légumes & chorizo, jus de betterave",
+      "price": "28 €"
+    },
+    {
+      "name": "FEUILLES DE CHOU FARCIES AUX ÉPINARDS",
+      "desc": "chou Bruxelles, crème d’herbes fraîches, jus de céleri réduit",
+      "price": "24 €"
+    },
+    {
+      "name": "POULPE AU CHARBON",
+      "desc": "poireau confit, pois-chiche, crème de tahine au \r\npoivre de Sichuan",
+      "price": "27 €"
+    },
+    {
+      "name": "RAVIOLI AUX PDT",
+      "desc": "sauce aux oignons caramélisés, crème fraîche ; oignon grillé",
+      "price": "26 €"
+    },
+    {
+      "name": "POISSON GRILLÉ",
+      "desc": "crème de céleri, chou rôti, sauce aux graines de moutarde, crème de sésame",
+      "price": "28 €"
+    },
+    {
+      "name": "AGNEAU À TROIS FORMES",
+      "desc": "faux filet, poitrine & tartare d’agneau, crème de topinambour, confiture d’abricot",
+      "price": "32 €"
+    }
+  ],
+  "menu_items_cheese": [
+    {
+      "name": "ASSIETTE DE FROMAGES",
+      "desc": "",
+      "price": "12 €"
+    }
+  ],
+  "menu_items_desserts": [
+    {
+      "name": "NAMELAKA AU CHOCOLAT",
+      "desc": "glace à la crème de sésame, tuile au miso & chocolat blanc",
+      "price": "12 €"
+    },
+    {
+      "name": "MASCARPONE AUX CHEVEUX D’ANGE",
+      "desc": "frangipane, myrtille au Lillet",
+      "price": "13 €"
+    },
+    {
+      "name": "PAVLOVA AUX AGRUMES",
+      "desc": "crème à la vanille, gâteau à l’huile d’olive",
+      "price": "13 €"
+    }
+  ],
+  "menu_lunch_blocks": [
+    {
+      "label": "ENTRÉE",
+      "options": [
+        "Courge Butternut au beurre blanc à l’harissa",
+        "Céleri Cacio e Pepe"
+      ]
+    },
+    {
+      "label": "PLAT",
+      "options": [
+        "Plat du jour",
+        "Magret de Canard (+4)"
+      ]
+    },
+    {
+      "label": "DESSERT",
+      "options": [
+        "Dessert du jour"
+      ]
+    }
+  ],
+  "menu_lunch_prices": [
+    {
+      "label": "Entrée + Plat + Dessert",
+      "price": "25 €"
+    },
+    {
+      "label": "Entrée + Plat ou Plat + Dessert",
+      "price": "23 €"
+    }
+  ]
+}
