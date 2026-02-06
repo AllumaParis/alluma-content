@@ -74,7 +74,23 @@
   "hero_reserve_cta": "",
   "home_discover_menu_link": "",
   "home_explore_services_link": "",
-  "menu_items_a_la_carte": [],
+  "menu_items_a_la_carte": [
+    {
+      "name": "CELERY CACIO E PEPE",
+      "desc": "",
+      "price": ""
+    },
+    {
+      "name": "BUTTERNUT SQUASH",
+      "desc": "",
+      "price": ""
+    },
+    {
+      "name": "FISH CRUDO",
+      "desc": "",
+      "price": ""
+    }
+  ],
   "menu_items_cheese": [],
   "menu_items_desserts": [],
   "menu_lunch_blocks": [
