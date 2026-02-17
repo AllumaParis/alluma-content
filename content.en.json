@@ -76,6 +76,16 @@
   "hero_reserve_cta": "Book your table",
   "home_discover_menu_link": "→ Discover our menu",
   "home_explore_services_link": "→ Explore our services",
+  "thanks_resa_title": "Thank you",
+  "thanks_resa_message": "Your reservation has been received. You’ll receive a confirmation email in the next few minutes.",
+  "thanks_resa_practical_title": "Practical information",
+  "thanks_resa_address_label": "Alluma —",
+  "thanks_resa_address_value": "151 rue Saint-Maur, 75011 Paris",
+  "thanks_resa_maps_link": "Open in Google Maps",
+  "thanks_resa_metro": "Metro: Parmentier (Line 3) • Goncourt (Line 11)",
+  "thanks_resa_contact": "Allergies / changes:",
+  "thanks_resa_btn_home": "Back to home",
+  "thanks_resa_btn_menu": "See the menu",
   "menu_items_a_la_carte": [
     {
       "name": "CELERY CACIO E PEPE",
