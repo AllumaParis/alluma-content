@@ -90,93 +90,93 @@
     {
       "name": "CÉLERI CACIO E PEPE",
       "desc": "pecorino, poivre noir",
-      "price": "14 €"
+      "price": "14"
     },
     {
-      "name": "COURGE BUTTERNUT",
-      "desc": "au beurre blanc à l’harissa",
-      "price": "12 €"
+      "name": "PARAFAIT DE FOIE DE VOLAILLE",
+      "desc": "oignons caramélisés, réduction de vin",
+      "price": "14"
     },
     {
       "name": "CRUDO DE POISSON",
-      "desc": "salade d’agrumes, olives, jus d’orange sanguine",
-      "price": "16 €"
+      "desc": "freekeh, agrumes, olives, jus d’orange sanguine",
+      "price": "16"
     },
     {
-      "name": "FENOUIL RÔTI",
-      "desc": "fromage Tulum, feuilles de fenouil, beurre noisette & miel, za’atar",
-      "price": "13 €"
+      "name": "TARAMA",
+      "desc": "radis, sumac",
+      "price": "12"
     },
     {
-      "name": "BETTERAVES BRÛLÉES & BURRATA",
-      "desc": "chips de topinambour",
-      "price": "14 €"
+      "name": "BURRATA",
+      "desc": "courgettes jaunes & vertes, pesto d’ail des ours",
+      "price": "14"
     },
     {
-      "name": "CHOU-RAVE CONFIT",
+      "name": "ARTICHAUT CROUSTILLANT",
       "desc": "labneh, schug",
-      "price": "13 €"
+      "price": "13"
     },
     {
-      "name": "MAGRET DE CANARD",
-      "desc": "galette, romesco, brunoise de légumes & chorizo, jus de betterave",
-      "price": "28 €"
+      "name": "BROCHETTE DE CUISSE DE POULET",
+      "desc": "carottes glacées, petits pois, yaourt à l’Amba, pesto d’ail des ours",
+      "price": "25"
     },
     {
-      "name": "FEUILLES DE CHOU FARCIES AUX ÉPINARDS",
-      "desc": "chou Bruxelles, crème d’herbes fraîches, jus de céleri réduit",
-      "price": "24 €"
+      "name": "MILLEFEUILLE DE CHOU AUX ÉPINARDS",
+      "desc": "choux Bruxelles, crème d’herbes fraîches, jus de céleri-rave",
+      "price": "24"
     },
     {
       "name": "POULPE AU CHARBON",
-      "desc": "poireau confit, pois-chiche, crème de tahine au \r\npoivre de Sichuan",
-      "price": "27 €"
+      "desc": "poireau confit, pois chiches, crème de tahini au poivre de Sichuan",
+      "price": "29"
     },
     {
       "name": "RAVIOLI AUX PDT",
-      "desc": "sauce aux oignons caramélisés, crème fraîche ; oignon grillé",
-      "price": "26 €"
+      "desc": "oignons caramélisés, crème fraîche, oignon grillé",
+      "price": "26"
     },
     {
-      "name": "POISSON GRILLÉ",
-      "desc": "crème de céleri, chou rôti, sauce aux graines de moutarde, crème de sésame",
-      "price": "28 €"
+      "name": "POISSON AU CHARBON",
+      "desc": "fenouil rôti, bisque de poisson, tapenade d’olives, trévise",
+      "price": "28"
     },
     {
       "name": "AGNEAU À TROIS FORMES",
       "desc": "faux filet, poitrine & tartare d’agneau, crème de topinambour, confiture d’abricot",
-      "price": "32 €"
+      "price": "32"
     }
   ],
   "menu_items_cheese": [
     {
       "name": "ASSIETTE DE FROMAGES",
       "desc": "",
-      "price": "12 €"
+      "price": "12"
     }
   ],
   "menu_items_desserts": [
     {
       "name": "NAMELAKA AU CHOCOLAT",
       "desc": "glace à la crème de sésame, tuile au miso & chocolat blanc",
-      "price": "12 €"
+      "price": "12"
     },
     {
       "name": "MASCARPONE AUX CHEVEUX D’ANGE",
       "desc": "frangipane, myrtille au Lillet",
-      "price": "13 €"
+      "price": "13"
     },
     {
-      "name": "PAVLOVA AUX AGRUMES",
-      "desc": "crème à la vanille, gâteau à l’huile d’olive",
-      "price": "13 €"
+      "name": "PAVLOVA À LA CRÈME DE CHEESECAKE BASQUE",
+      "desc": "compote de rhubarbe, rhubarbe pochée, granité de pamplemousse",
+      "price": "13"
     }
   ],
   "menu_lunch_blocks": [
     {
       "label": "ENTRÉE",
       "options": [
-        "Courge Butternut au beurre blanc à l’harissa",
+        "Entrée du Jour",
         "Céleri Cacio e Pepe"
       ]
     },
@@ -184,7 +184,7 @@
       "label": "PLAT",
       "options": [
         "Plat du jour",
-        "Magret de Canard (+4)"
+        "Plat de la Carte du moment (+4)"
       ]
     },
     {
