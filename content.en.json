@@ -90,93 +90,93 @@
     {
       "name": "CELERY CACIO E PEPE",
       "desc": "Pecorino, black pepper",
-      "price": "14 €"
+      "price": "14"
     },
     {
-      "name": "BUTTERNUT SQUASH",
+      "name": "CHICKEN LIVER PARFAIT",
       "desc": "Harissa beurre blanc",
-      "price": "12 €"
+      "price": "14"
     },
     {
       "name": "FISH CRUDO",
       "desc": "Citrus salad, olives, blood orange juice",
-      "price": "16 €"
+      "price": "16"
     },
     {
-      "name": "ROASTED FENNEL",
-      "desc": "Tulum cheese, fennel leaves, brown butter & honey, za’atar",
-      "price": "13 €"
+      "name": "TARAMA",
+      "desc": "radish, sumac",
+      "price": "12"
     },
     {
-      "name": "BURNT BEETS & BURRATA",
-      "desc": "Jerusalem artichoke chips",
-      "price": "14 €"
+      "name": "BURRATA",
+      "desc": "yellow & green zucchini, wild garlic pesto",
+      "price": "14"
     },
     {
-      "name": "KOHLRABI CONFIT",
+      "name": "FRIED ARTICHOKE",
       "desc": "Labneh, schug",
-      "price": "13 €"
+      "price": "13"
     },
     {
-      "name": "DUCK BREAST",
-      "desc": "Yemeni galette, romesco sauce, vegetable brunoise & chorizo, beetroot jus",
-      "price": "28 €"
+      "name": "CHICKEN THIGH SKEWER",
+      "desc": "glazed carrots, peas, amba yogurt, wild garlic pesto",
+      "price": "25"
     },
     {
-      "name": "SPINACH-STUFFED CABBAGE LEAVES",
+      "name": "SPINACH & CABBAGE MILLEFEUILLE",
       "desc": "Brussels sprouts, fresh herb cream, celeriac jus",
-      "price": "24 €"
+      "price": "24"
     },
     {
       "name": "CHARCOAL-GRILLED OCTOPUS",
       "desc": "Confit leek, chickpeas, tahini cream with Sichuan pepper",
-      "price": "27 €"
+      "price": "29"
     },
     {
       "name": "POTATO RAVIOLI",
       "desc": "Caramelized onion sauce, crème fraîche, roasted onions",
-      "price": "26 €"
+      "price": "26"
     },
     {
       "name": "CHARCOAL-GRILLED FISH",
-      "desc": "Celery cream, roasted cabbage, mustard seed sauce, sesame cream",
-      "price": "28 €"
+      "desc": "roasted fennel, fish bisque, olive tapenade, treviso",
+      "price": "28"
     },
     {
       "name": "LAMB THREE WAYS",
-      "desc": "Sirloin, flap & tartare, apricot jam, Jerusalem artichoke cream",
-      "price": "32 €"
+      "desc": "sirloin, flap & lamb tartare, sweet potato cream, apricot",
+      "price": "32"
     }
   ],
   "menu_items_cheese": [
     {
       "name": "CHEESE PLATE",
       "desc": "",
-      "price": "12 €"
+      "price": "12"
     }
   ],
   "menu_items_desserts": [
     {
       "name": "CHOCOLATE NAMELAKA",
       "desc": "Tahini ice cream, miso & white chocolate tuile",
-      "price": "12 €"
+      "price": "12"
     },
     {
       "name": "MASCARPONE CREAM",
       "desc": "Angel hair, frangipane, Lillet blueberries",
-      "price": "13 €"
+      "price": "13"
     },
     {
-      "name": "CITRUS PAVLOVA",
-      "desc": "Vanilla cream, olive oil cake",
-      "price": "13 €"
+      "name": "BASQUE CHEESECAKE CREAM PAVLOVA",
+      "desc": "rhubarb compote, poached rhubarb, grapefruit granita",
+      "price": "13"
     }
   ],
   "menu_lunch_blocks": [
     {
       "label": "STARTER",
       "options": [
-        "Butternut Squash",
+        "Entrée du Jour",
         "Celery Cacio e Pepe"
       ]
     },
@@ -184,7 +184,7 @@
       "label": "MAIN",
       "options": [
         "Dish of the Day",
-        "Duck Breast (+4)"
+        "A La Carte Main of the Day (+4)"
       ]
     },
     {
