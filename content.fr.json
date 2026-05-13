@@ -88,24 +88,14 @@
   "thanks_resa_btn_menu": "Voir le menu",
   "menu_items_a_la_carte": [
     {
-      "name": "CÉLERI CACIO E PEPE",
-      "desc": "pecorino, poivre noir",
-      "price": "14"
-    },
-    {
-      "name": "PARAFAIT DE FOIE DE VOLAILLE",
-      "desc": "oignons caramélisés, réduction de vin",
-      "price": "14"
-    },
-    {
       "name": "CRUDO DE POISSON",
-      "desc": "freekeh, agrumes, olives, jus d’orange sanguine",
+      "desc": "lait ribot, huile de feuilles de figuier",
       "price": "16"
     },
     {
-      "name": "TARAMA",
-      "desc": "radis, sumac",
-      "price": "12"
+      "name": "CÉLERI CACIO E PEPE",
+      "desc": "pecorino, poivre noir",
+      "price": "14"
     },
     {
       "name": "BURRATA",
@@ -118,24 +108,9 @@
       "price": "13"
     },
     {
-      "name": "BROCHETTE DE CUISSE DE POULET",
-      "desc": "carottes glacées, petits pois, yaourt à l’Amba, pesto d’ail des ours",
-      "price": "25"
-    },
-    {
-      "name": "MILLEFEUILLE DE CHOU AUX ÉPINARDS",
-      "desc": "choux Bruxelles, crème d’herbes fraîches, jus de céleri-rave",
-      "price": "24"
-    },
-    {
-      "name": "POULPE AU CHARBON",
-      "desc": "poireau confit, pois chiches, crème de tahini au poivre de Sichuan",
-      "price": "29"
-    },
-    {
-      "name": "RAVIOLI AUX PDT",
-      "desc": "oignons caramélisés, crème fraîche, oignon grillé",
-      "price": "26"
+      "name": "TARAMA",
+      "desc": "radis, sumac",
+      "price": "12"
     },
     {
       "name": "POISSON AU CHARBON",
@@ -146,6 +121,21 @@
       "name": "AGNEAU À TROIS FORMES",
       "desc": "faux filet, poitrine & tartare d’agneau, crème de topinambour, confiture d’abricot",
       "price": "32"
+    },
+    {
+      "name": "RAVIOLI AUX PDT",
+      "desc": "sauce verte, petits pois",
+      "price": "26"
+    },
+    {
+      "name": "BROCHETTE DE CUISSE DE POULET",
+      "desc": "carottes glacées, petits pois, yaourt à l’Amba, pesto d’ail des ours",
+      "price": "25"
+    },
+    {
+      "name": "POULPE AU CHARBON",
+      "desc": "poireau confit, pois chiches, crème de tahini au poivre de Sichuan",
+      "price": "29"
     }
   ],
   "menu_items_cheese": [
@@ -157,18 +147,18 @@
   ],
   "menu_items_desserts": [
     {
+      "name": "PAVLOVA À LA CRÈME DE CHEESECAKE BASQUE",
+      "desc": "compote de rhubarbe, rhubarbe pochée, granité de pamplemousse",
+      "price": "13"
+    },
+    {
       "name": "NAMELAKA AU CHOCOLAT",
       "desc": "glace à la crème de sésame, tuile au miso & chocolat blanc",
       "price": "12"
     },
     {
       "name": "MASCARPONE AUX CHEVEUX D’ANGE",
-      "desc": "frangipane, myrtille au Lillet",
-      "price": "13"
-    },
-    {
-      "name": "PAVLOVA À LA CRÈME DE CHEESECAKE BASQUE",
-      "desc": "compote de rhubarbe, rhubarbe pochée, granité de pamplemousse",
+      "desc": "frangipane, fraises au Lillet",
       "price": "13"
     }
   ],
@@ -183,8 +173,7 @@
     {
       "label": "PLAT",
       "options": [
-        "Plat du jour",
-        "Plat de la Carte du moment (+4)"
+        "Plat du jour"
       ]
     },
     {
