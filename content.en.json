@@ -88,28 +88,18 @@
   "thanks_resa_btn_menu": "See our menu",
   "menu_items_a_la_carte": [
     {
+      "name": "FISH CRUDO",
+      "desc": "buttermilk, fig leaf oil",
+      "price": "16"
+    },
+    {
       "name": "CELERY CACIO E PEPE",
       "desc": "Pecorino, black pepper",
       "price": "14"
     },
     {
-      "name": "CHICKEN LIVER PARFAIT",
-      "desc": "Harissa beurre blanc",
-      "price": "14"
-    },
-    {
-      "name": "FISH CRUDO",
-      "desc": "Citrus salad, olives, blood orange juice",
-      "price": "16"
-    },
-    {
-      "name": "TARAMA",
-      "desc": "radish, sumac",
-      "price": "12"
-    },
-    {
       "name": "BURRATA",
-      "desc": "yellow & green zucchini, wild garlic pesto",
+      "desc": "yellow & green zucchini, wild garlic pesto ",
       "price": "14"
     },
     {
@@ -118,24 +108,9 @@
       "price": "13"
     },
     {
-      "name": "CHICKEN THIGH SKEWER",
-      "desc": "glazed carrots, peas, amba yogurt, wild garlic pesto",
-      "price": "25"
-    },
-    {
-      "name": "SPINACH & CABBAGE MILLEFEUILLE",
-      "desc": "Brussels sprouts, fresh herb cream, celeriac jus",
-      "price": "24"
-    },
-    {
-      "name": "CHARCOAL-GRILLED OCTOPUS",
-      "desc": "Confit leek, chickpeas, tahini cream with Sichuan pepper",
-      "price": "29"
-    },
-    {
-      "name": "POTATO RAVIOLI",
-      "desc": "Caramelized onion sauce, crème fraîche, roasted onions",
-      "price": "26"
+      "name": "TARAMA",
+      "desc": "radish, sumac",
+      "price": "12"
     },
     {
       "name": "CHARCOAL-GRILLED FISH",
@@ -146,6 +121,21 @@
       "name": "LAMB THREE WAYS",
       "desc": "sirloin, flap & lamb tartare, sweet potato cream, apricot",
       "price": "32"
+    },
+    {
+      "name": "POTATO RAVIOLI",
+      "desc": "green sauce, garden peas",
+      "price": "26"
+    },
+    {
+      "name": "CHICKEN THIGH SKEWER",
+      "desc": "glazed carrots, peas, amba yogurt, wild garlic pesto",
+      "price": "25"
+    },
+    {
+      "name": "CHARCOAL-GRILLED OCTOPUS",
+      "desc": "Confit leek, chickpeas, tahini cream with Sichuan pepper",
+      "price": "29"
     }
   ],
   "menu_items_cheese": [
@@ -157,18 +147,18 @@
   ],
   "menu_items_desserts": [
     {
+      "name": "BASQUE CHEESECAKE CREAM PAVLOVA",
+      "desc": "rhubarb compote, poached rhubarb, grapefruit granita",
+      "price": "13"
+    },
+    {
       "name": "CHOCOLATE NAMELAKA",
       "desc": "Tahini ice cream, miso & white chocolate tuile",
       "price": "12"
     },
     {
       "name": "MASCARPONE CREAM",
-      "desc": "Angel hair, frangipane, Lillet blueberries",
-      "price": "13"
-    },
-    {
-      "name": "BASQUE CHEESECAKE CREAM PAVLOVA",
-      "desc": "rhubarb compote, poached rhubarb, grapefruit granita",
+      "desc": "Angel hair, frangipane, Lillet strawberries",
       "price": "13"
     }
   ],
@@ -183,8 +173,7 @@
     {
       "label": "MAIN",
       "options": [
-        "Dish of the Day",
-        "A La Carte Main of the Day (+4)"
+        "Dish of the Day"
       ]
     },
     {
